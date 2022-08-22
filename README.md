@@ -1,8 +1,8 @@
 ## 💜 Olá, meu nome é <strong>Robert Uillians!</strong>
 
-> Sou um desenvolvedor WEB Jr. procurando oportunidade para resolver problemas através de códigos.
+> Sou um desenvolvedor WEB Jr. atualmente trabalhando na SPTC (Superintendência da Policía técnico-cientifíca)
 
-🔭 Atualmente estou montando o meu portfólio pessoal para comprovar minhas skills, clique aqui e [veja meu curriculo web](https://robert-curriculo.netlify.app/).
+🔭 Quer ver meu portfólio pessoal? clique aqui e [veja meu curriculo web](https://robert-curriculo.netlify.app/).
 
 💬 Caso você queira os meus serviços, estou a inteira disposição da empresa. Entre em contato comigo pelas minhas redes sociais!
 
@@ -14,7 +14,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Curso técnico **Analise e desenvolvimento de sistemas** na <a href="https://etecjardimangela.com.br/">ETEC Jardim ângela</a>.
-- 💼 &nbsp; Procurando emprego como **Full Stack Jr. WEB PHP**.
+- 💼 &nbsp; Trabalhando como **Full Stack Jr. WEB PHP** na SPTC.
 - 🤖 &nbsp; Aprendendo mais sobre **Laravel e ReactJs**.
 
 ----
