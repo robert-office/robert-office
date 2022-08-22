@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Robert Uillians!</strong>
 
-> Sou um desenvolvedor WEB Jr. atualmente trabalhando na SPTC (Superintendência da Policía técnico-cientifíca)
+> Sou um desenvolvedor WEB Jr. atualmente trabalhando na SPTC (Superintendência da Policía Técnico Cientifíca)
 
 🔭 Quer ver meu portfólio pessoal? clique aqui e [veja meu curriculo web](https://robert-curriculo.netlify.app/).
 
@@ -14,7 +14,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Curso técnico **Analise e desenvolvimento de sistemas** na <a href="https://etecjardimangela.com.br/">ETEC Jardim ângela</a>.
-- 💼 &nbsp; Trabalhando como **Full Stack Jr. WEB PHP** na SPTC.
+- 💼 &nbsp; Trabalhando como **Full Stack Jr. WEB PHP** na SPTC (Superintendência da Policía Técnico Cientifíca).
 - 🤖 &nbsp; Aprendendo mais sobre **Laravel e ReactJs**.
 
 ----
