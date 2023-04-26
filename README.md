@@ -1,4 +1,4 @@
-## 💜 meu nome é <strong>Robert Uillians!</strong>
+## 💜 Olá, meu nome é <strong>Robert Uillians!</strong>
 
 > Sou um desenvolvedor WEB Jr. atualmente trabalhando na SPTC (Superintendência da Policía Técnico Cientifíca)
 
