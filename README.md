@@ -1,10 +1,10 @@
 ## 💜 Olá, meu nome é <strong>Robert Uillians!</strong>
 
-> Sou um desenvolvedor WEB Jr. atualmente trabalhando na SPTC (Superintendência da Policía Técnico Cientifíca)
+> Sou um desenvolvedor WEB. atualmente trabalhando na SPTC (Superintendência da Policía Técnico Cientifíca)
 
 🔭 Quer ver meu portfólio pessoal? clique aqui e [veja meu curriculo web](https://robert-curriculo.netlify.app/).
 
-💬 Caso você queira os meus serviços, estou a inteira disposição da empresa. Entre em contato comigo pelas minhas redes sociais!
+💬 Caso você queira os meus serviços, estou a inteira disposição. Entre em contato comigo pelas minhas redes sociais!
 
 ----
 
