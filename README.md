@@ -2,7 +2,7 @@
 
 > Sou um desenvolvedor WEB. atualmente trabalhando na SPTC (Superintendência da Policía Técnico Cientifíca)
 
-🔭 Quer ver meu portfólio pessoal? clique aqui e [veja meu curriculo web](https://robert-curriculo.netlify.app/).
+🔭 Quer ver meu portfólio pessoal? clique aqui e [veja meu curriculo web](https://dev.robertuill.com.br).
 
 💬 Caso você queira os meus serviços, estou a inteira disposição. Entre em contato comigo pelas minhas redes sociais!
 
